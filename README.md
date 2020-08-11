@@ -1,13 +1,11 @@
 ### Hi there, I'm Carlos 👋
-
-## I'm a Spanish Mobile Developer!
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning Dart, Swift and C
-
-### Connect with me:
 [![Linkedin: cgutierr](https://img.shields.io/badge/-cgutierr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgutierr/)](https://www.linkedin.com/in/cgutierr/)
 [![GitHub Cgutierr](https://img.shields.io/github/followers/cgutierr-zgz?label=follow&style=social)](https://github.com/cgutierr-zgz)
 [<img align="left" alt="carlosgutimo.es" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+## I'm a Spanish Mobile Developer!
+- I’m currently working on Android Apps
+- I’m currently learning Dart, Swift and C
+- 42 Learner
 
 <br />
 
