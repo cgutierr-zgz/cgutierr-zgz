@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning Dart, Swift and C
 
 ### Connect with me:
-
+[![Linkedin: cgutierr](https://img.shields.io/badge/-cgutierr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgutierr/)](https://www.linkedin.com/in/cgutierr/)
+[![GitHub Cgutierr](https://img.shields.io/github/followers/cgutierr-zgz?label=follow&style=social)](https://github.com/cgutierr-zgz)
 [<img align="left" alt="carlosgutimo.es" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cgutierr's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -34,4 +34,3 @@
 <!-- <img align="left" alt="cgutierr-zgz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&hide_border=true" /> -->
 
 [website]: https://carlosgutimo.es
-[linkedin]: https://linkedin.com/in/cgutierr
