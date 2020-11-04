@@ -3,7 +3,7 @@
 [<img align="left" alt="carlosgutimo.es" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 ## I'm a Spanish Mobile Developer!
 - I’m currently working on Android Apps
-- I’m currently learning Flutter, React, Swift, HTML5, CSS3...
+- I’m currently learning Flutter, React, Swift, Ruby on Rails, HTML5, CSS3... (Way too much)
 - 42 Learner
 
 <br />
