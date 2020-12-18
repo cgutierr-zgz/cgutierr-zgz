@@ -2,7 +2,7 @@
 [![Linkedin: cgutierr](https://img.shields.io/badge/-cgutierr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgutierr/)](https://www.linkedin.com/in/cgutierr/)
 ## I'm a Spanish Mobile Developer!
 - I’m currently working on Android Apps
-- I’m currently learning Flutter, React, Swift, Ruby on Rails, HTML5, CSS3... (Way too much)
+- I’m currently learning Flutter and more...
 - 42 Learner
 
 <br />
