@@ -5,7 +5,7 @@ Hi! I'm a mobile app developer working at [**BASF**](https://www.basf.com/) 🎯
 - 💙 Flutter enthusiast
 - 🚴‍♀️ Love cycling and swimming 🏊‍♀️
 - 🐶 I have two dogs, named **Laisa** and **Phoebe**
-- 🐢 I have three turtles, named **Cristina**, **Casemira** and **Victor**
+- 🐢 I have four turtles, named **Cristina**, **Casemira**, **Victor** and **Cloe**
 - 🇪🇸 I was born in Zaragoza, Spain
 - 🎤 I love singing, take me to a karaoke!
 
