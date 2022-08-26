@@ -1,6 +1,6 @@
 ### Sup 🙋‍
 
-Hi! I'm a mobile app developer working at [**BASF**](https://www.basf.com/) 🎯
+Hi! I'm a mobile app developer 🎯
 
 - 💙 Flutter enthusiast
 - 🚴‍♀️ Love cycling and swimming 🏊‍♀️
