@@ -5,7 +5,7 @@ Hi! I'm a mobile app developer 🎯
 - 💙 Flutter enthusiast
 - 🚴‍♀️ Love cycling and swimming 🏊‍♀️
 - 🐶 I have two dogs, named **Laisa** and **Phoebe**
-- 🐢 I have four turtles, named **Cristina**, **Casemira**, **Victor** and **Cloe**
+- 🐢 I have four turtles, named **Cristina**, **Casemira**, **Victor**, **Cloe** and **Paqui**
 - 🇪🇸 I was born in Zaragoza, Spain
 - 🎤 I love singing, take me to a karaoke!
 
