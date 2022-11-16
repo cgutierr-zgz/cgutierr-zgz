@@ -15,7 +15,6 @@ I’m also a big fan of **Flutter** and **Dart**
 - 🎤 I love **singing**, take me to karaoke!
 
 Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know more about me.
-  <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
   
 [![email](https://img.shields.io/badge/-email-red?&logo=Gmail&logoColor=white)](mailto:carlosgutimo.3d@gmail.com)
 [![linkedin](https://img.shields.io/badge/-cgutierr-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cgutierr)
@@ -29,3 +28,5 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 ### What I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21kzfn436nvxgiht6l2md2wxa&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+[![visits](https://komarev.com/ghpvc/?username=cgutierr-zgz&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cgutierr-zgz)
