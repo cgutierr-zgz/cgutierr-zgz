@@ -18,7 +18,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
   
 [![email](https://img.shields.io/badge/-email-red?&logo=Gmail&logoColor=white)](mailto:carlosgutimo.3d@gmail.com)
 [![linkedin](https://img.shields.io/badge/-cgutierr-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cgutierr)
-[![website](https://img.shields.io/badge/-website-purple?&logo=Hugo&logoColor=white)](https://www.linkedin.com/in/cgutierr)
+[![website](https://img.shields.io/badge/-website-purple?&logo=Hugo&logoColor=white)](https://cgutierr-zgz.github.io/)
 
 ### Stats
 
