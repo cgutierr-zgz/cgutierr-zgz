@@ -6,7 +6,9 @@ A **passionate** software developer from **Spain** mainly focused on **Mobile De
 I like to **learn**, **share** and **create** things<br>
 I’m also a big fan of **Flutter** and **Dart**
 
-### Hobbies :video_game:
+Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know more about me.
+
+### Hobbies 🕹️
 
 - 🚴‍♀️ **Cycling** and **swimming** 
 - 🐶 I have two dogs, named **Laisa** and **Phoebe**
@@ -14,17 +16,37 @@ I’m also a big fan of **Flutter** and **Dart**
 - 🇪🇸 I was born in **Zaragoza**, Spain
 - 🎤 I love **singing**, take me to karaoke!
 
-Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know more about me.
-  
+
+### Reach out to me 📫
+
 [![email](https://img.shields.io/badge/-email-red?&logo=Gmail&logoColor=white)](mailto:carlosgutimo.3d@gmail.com)
 [![linkedin](https://img.shields.io/badge/-cgutierr-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cgutierr)
 [![twitter](https://img.shields.io/badge/-dud_ichi-blue?&logo=Twitter&logoColor=white)](https://twitter.com/dud_ichi)
 [![website](https://img.shields.io/badge/-website-purple?&logo=Hugo&logoColor=white)](https://cgutierr-zgz.github.io/)
 
-### Stats
+### Stats 📈
 
 [![Stats 1](https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&count_private=true)](https://github.com/cgutierr-zgz)
 [![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz)](https://github.com/cgutierr-zgz)
+
+#### My recent blog posts 📜
+
+- [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (1 week ago)
+- [Using enhanced enums with go_router](https://cgutierr-zgz.github.io/posts/go-router-enums/) (2 weeks ago)
+- [Update and persist user settings with hydrated_bloc](https://cgutierr-zgz.github.io/posts/storing-settings-with-hydrated-bloc/) (2 weeks ago)
+
+### My recent Pull Requests 🔨
+
+- [feat: Updated project to have perfect pana score](https://github.com/cgutierr-zgz/gitmoji_flutter/pull/1) on [cgutierr-zgz/gitmoji_flutter](https://github.com/cgutierr-zgz/gitmoji_flutter) (today)
+- [✏️ Added some missing dots to the description](https://github.com/carloscuesta/gitmoji/pull/1206) on [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) (2 days ago)
+- [Updated the SAMPLES link in the docs](https://github.com/clickup/honey/pull/25) on [clickup/honey](https://github.com/clickup/honey) (5 days ago)
+- [Added VSCode extension link to the README](https://github.com/clickup/honey/pull/24) on [clickup/honey](https://github.com/clickup/honey) (5 days ago)
+- [Added cgutierr-zgz.github.io to users](https://github.com/jpanther/congo/pull/362) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
+- [Adding og:image parameter to single](https://github.com/jpanther/congo/pull/361) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
+- [Update button to add download tag](https://github.com/jpanther/congo/pull/349) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
+- [fix: add support for GlobalCupertinoLocalizations](https://github.com/VeryGoodOpenSource/very_good_flame_game/pull/42) on [VeryGoodOpenSource/very_good_flame_game](https://github.com/VeryGoodOpenSource/very_good_flame_game) (2 weeks ago)
+- [Added a test file](https://github.com/cgutierr-zgz/test-workflows/pull/2) on [cgutierr-zgz/test-workflows](https://github.com/cgutierr-zgz/test-workflows) (3 weeks ago)
+- [Added a test file](https://github.com/cgutierr-zgz/test-workflows/pull/1) on [cgutierr-zgz/test-workflows](https://github.com/cgutierr-zgz/test-workflows) (3 weeks ago)
   
 ### What I'm listening to
 
