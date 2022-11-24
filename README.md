@@ -42,11 +42,6 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 - [Updated the SAMPLES link in the docs](https://github.com/clickup/honey/pull/25) on [clickup/honey](https://github.com/clickup/honey) (5 days ago)
 - [Added VSCode extension link to the README](https://github.com/clickup/honey/pull/24) on [clickup/honey](https://github.com/clickup/honey) (5 days ago)
 - [Added cgutierr-zgz.github.io to users](https://github.com/jpanther/congo/pull/362) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
-- [Adding og:image parameter to single](https://github.com/jpanther/congo/pull/361) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
-- [Update button to add download tag](https://github.com/jpanther/congo/pull/349) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
-- [fix: add support for GlobalCupertinoLocalizations](https://github.com/VeryGoodOpenSource/very_good_flame_game/pull/42) on [VeryGoodOpenSource/very_good_flame_game](https://github.com/VeryGoodOpenSource/very_good_flame_game) (2 weeks ago)
-- [Added a test file](https://github.com/cgutierr-zgz/test-workflows/pull/2) on [cgutierr-zgz/test-workflows](https://github.com/cgutierr-zgz/test-workflows) (3 weeks ago)
-- [Added a test file](https://github.com/cgutierr-zgz/test-workflows/pull/1) on [cgutierr-zgz/test-workflows](https://github.com/cgutierr-zgz/test-workflows) (3 weeks ago)
   
 ### What I'm listening to
 
