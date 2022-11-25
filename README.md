@@ -8,7 +8,7 @@ I’m also a big fan of **Flutter** and **Dart**
 
 Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know more about me.
 
-### Hobbies 🕹️
+### Some more info 📋
 
 - 🚴‍♀️ **Cycling** and **swimming** 
 - 🐶 I have two dogs, named **Laisa** and **Phoebe**
