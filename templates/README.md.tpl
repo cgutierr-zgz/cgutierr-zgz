@@ -26,8 +26,11 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 ### Stats 📈
 
-[![Stats 1](https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&count_private=true)](https://github.com/cgutierr-zgz)
-[![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz)](https://github.com/cgutierr-zgz)
+[![Stats 1](https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&count_private=true)](https://github.com/cgutierr-zgz#gh-light-mode-only)
+[![Stats 1_dark](https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&count_private=true&theme=dark)](https://github.com/cgutierr-zgz#gh-dark-mode-only)
+
+[![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz)](https://github.com/cgutierr-zgz#gh-light-mode-only)
+[![Stats 2_dark](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz&theme=dark)](https://github.com/cgutierr-zgz#gh-dark-mode-only)
 
 #### My recent blog posts 📜
 {{range rss "https://cgutierr-zgz.github.io/posts/index.xml" 3}}
