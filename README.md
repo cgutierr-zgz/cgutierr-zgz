@@ -36,12 +36,12 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 - [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (1 week ago)
 - [Using enhanced enums with go_router](https://cgutierr-zgz.github.io/posts/go-router-enums/) (2 weeks ago)
-- [Update and persist user settings with hydrated_bloc](https://cgutierr-zgz.github.io/posts/storing-settings-with-hydrated-bloc/) (2 weeks ago)
+- [Update and persist user settings with hydrated_bloc](https://cgutierr-zgz.github.io/posts/storing-settings-with-hydrated-bloc/) (3 weeks ago)
 
 ### My recent Pull Requests 🔨
 
-- [feat: Updated project to have perfect pana score](https://github.com/cgutierr-zgz/gitmoji_flutter/pull/1) on [cgutierr-zgz/gitmoji_flutter](https://github.com/cgutierr-zgz/gitmoji_flutter) (4 days ago)
-- [✏️ Added some missing dots to the description](https://github.com/carloscuesta/gitmoji/pull/1206) on [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) (6 days ago)
+- [feat: Updated project to have perfect pana score](https://github.com/cgutierr-zgz/gitmoji_flutter/pull/1) on [cgutierr-zgz/gitmoji_flutter](https://github.com/cgutierr-zgz/gitmoji_flutter) (5 days ago)
+- [✏️ Added some missing dots to the description](https://github.com/carloscuesta/gitmoji/pull/1206) on [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) (1 week ago)
 - [Updated the SAMPLES link in the docs](https://github.com/clickup/honey/pull/25) on [clickup/honey](https://github.com/clickup/honey) (1 week ago)
 - [Added VSCode extension link to the README](https://github.com/clickup/honey/pull/24) on [clickup/honey](https://github.com/clickup/honey) (1 week ago)
 - [Added cgutierr-zgz.github.io to users](https://github.com/jpanther/congo/pull/362) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
