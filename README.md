@@ -40,11 +40,11 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 ### My recent Pull Requests 🔨
 
-- [feat: Updated project to have perfect pana score](https://github.com/cgutierr-zgz/gitmoji_flutter/pull/1) on [cgutierr-zgz/gitmoji_flutter](https://github.com/cgutierr-zgz/gitmoji_flutter) (6 days ago)
+- [feat: Updated project to have perfect pana score](https://github.com/cgutierr-zgz/gitmoji_flutter/pull/1) on [cgutierr-zgz/gitmoji_flutter](https://github.com/cgutierr-zgz/gitmoji_flutter) (1 week ago)
 - [✏️ Added some missing dots to the description](https://github.com/carloscuesta/gitmoji/pull/1206) on [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) (1 week ago)
 - [Updated the SAMPLES link in the docs](https://github.com/clickup/honey/pull/25) on [clickup/honey](https://github.com/clickup/honey) (1 week ago)
 - [Added VSCode extension link to the README](https://github.com/clickup/honey/pull/24) on [clickup/honey](https://github.com/clickup/honey) (1 week ago)
-- [Added cgutierr-zgz.github.io to users](https://github.com/jpanther/congo/pull/362) on [jpanther/congo](https://github.com/jpanther/congo) (2 weeks ago)
+- [Added cgutierr-zgz.github.io to users](https://github.com/jpanther/congo/pull/362) on [jpanther/congo](https://github.com/jpanther/congo) (3 weeks ago)
   
 ### What I'm listening to
 
