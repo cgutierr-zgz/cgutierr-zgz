@@ -24,13 +24,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 [![twitter](https://img.shields.io/badge/-dud_ichi-blue?&logo=Twitter&logoColor=white)](https://twitter.com/dud_ichi)
 [![website](https://img.shields.io/badge/-website-purple?&logo=Hugo&logoColor=white)](https://cgutierr-zgz.github.io/)
 
-### Stats 📈
 
-[![Stats 1](https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&count_private=true)](https://github.com/cgutierr-zgz#gh-light-mode-only)
-[![Stats 1_dark](https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&count_private=true&theme=dark)](https://github.com/cgutierr-zgz#gh-dark-mode-only)
-
-[![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz)](https://github.com/cgutierr-zgz#gh-light-mode-only)
-[![Stats 2_dark](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz&theme=dark)](https://github.com/cgutierr-zgz#gh-dark-mode-only)
 
 #### My recent blog posts 📜
 
@@ -38,13 +32,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 - [Using enhanced enums with go_router](https://cgutierr-zgz.github.io/posts/go-router-enums/) (1 month ago)
 - [Update and persist user settings with hydrated_bloc](https://cgutierr-zgz.github.io/posts/storing-settings-with-hydrated-bloc/) (1 month ago)
 
-### My recent Pull Requests 🔨
 
-- [feat: Updated project to have perfect pana score](https://github.com/cgutierr-zgz/gitmoji_flutter/pull/1) on [cgutierr-zgz/gitmoji_flutter](https://github.com/cgutierr-zgz/gitmoji_flutter) (1 month ago)
-- [✏️ Added some missing dots to the description](https://github.com/carloscuesta/gitmoji/pull/1206) on [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) (1 month ago)
-- [Updated the SAMPLES link in the docs](https://github.com/clickup/honey/pull/25) on [clickup/honey](https://github.com/clickup/honey) (1 month ago)
-- [Added VSCode extension link to the README](https://github.com/clickup/honey/pull/24) on [clickup/honey](https://github.com/clickup/honey) (1 month ago)
-- [Added cgutierr-zgz.github.io to users](https://github.com/jpanther/congo/pull/362) on [jpanther/congo](https://github.com/jpanther/congo) (1 month ago)
   
 ### What I'm listening to
 
