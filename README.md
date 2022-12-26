@@ -24,7 +24,6 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 [![twitter](https://img.shields.io/badge/-dud_ichi-blue?&logo=Twitter&logoColor=white)](https://twitter.com/dud_ichi)
 [![website](https://img.shields.io/badge/-website-purple?&logo=Hugo&logoColor=white)](https://cgutierr-zgz.github.io/)
 
-<!--
 ### Stats 📈
 
 [![Stats 1](https://github-readme-stats.vercel.app/api?username=cgutierr-zgz&show_icons=true&count_private=true)](https://github.com/cgutierr-zgz#gh-light-mode-only)
@@ -32,7 +31,6 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 [![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz)](https://github.com/cgutierr-zgz#gh-light-mode-only)
 [![Stats 2_dark](https://github-readme-streak-stats.herokuapp.com/?user=cgutierr-zgz&theme=dark)](https://github.com/cgutierr-zgz#gh-dark-mode-only)
--->
 
 #### My recent blog posts 📜
 
