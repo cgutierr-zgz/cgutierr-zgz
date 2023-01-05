@@ -11,9 +11,9 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 ### Some more info 📋
 
 - 🚴‍♀️ **Cycling** and **swimming** 
-- 🐶 I have two dogs, named **Laisa** and **Phoebe**
-- 🐢 I have five turtles, named **Cristina**, **Casemira**, **Victor**, **Cloe** and **Paqui**
-- 🇪🇸 I was born in **Zaragoza**, Spain
+- 🐶 Proud owner of two dogs, **Laisa** and **Phoebe**
+- 🐢 My turtle squad: **Cristina**, **Casemira**, **Victor**, **Cloe** and **Paqui**
+- 🇪🇸 Born in Zaragoza and raised in Madrid, hola! 
 - 🎤 I love **singing**, take me to karaoke!
 
 
