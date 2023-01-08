@@ -29,7 +29,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 #### My recent blog posts 📜
 
 - [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (1 month ago)
-- [Using enhanced enums with go_router](https://cgutierr-zgz.github.io/posts/go-router-enums/) (1 month ago)
+- [Using enhanced enums with go_router](https://cgutierr-zgz.github.io/posts/go-router-enums/) (2 months ago)
 - [Update and persist user settings with hydrated_bloc](https://cgutierr-zgz.github.io/posts/storing-settings-with-hydrated-bloc/) (2 months ago)
 
 
