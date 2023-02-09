@@ -28,9 +28,9 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 #### My recent blog posts 📜
 
+- [Relative click position on a widget](https://cgutierr-zgz.github.io/posts/relative-position-click/) (today)
 - [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (2 months ago)
 - [Using enhanced enums with go_router](https://cgutierr-zgz.github.io/posts/go-router-enums/) (3 months ago)
-- [Update and persist user settings with hydrated_bloc](https://cgutierr-zgz.github.io/posts/storing-settings-with-hydrated-bloc/) (3 months ago)
 
 
   
