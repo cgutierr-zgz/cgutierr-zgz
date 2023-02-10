@@ -28,9 +28,9 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 #### My recent blog posts 📜
 
+- [ColorFiltered saved my day - Making a custom border shape in Flutter](https://cgutierr-zgz.github.io/posts/color-filtered-to-the-rescue/) (today)
 - [Relative click position on a widget](https://cgutierr-zgz.github.io/posts/relative-position-click/) (1 day ago)
 - [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (2 months ago)
-- [Using enhanced enums with go_router](https://cgutierr-zgz.github.io/posts/go-router-enums/) (3 months ago)
 
 
   
