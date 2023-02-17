@@ -28,7 +28,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 #### My recent blog posts 📜
 
-- [ColorFiltered saved my day - Making a custom border shape in Flutter](https://cgutierr-zgz.github.io/posts/color-filtered-to-the-rescue/) (6 days ago)
+- [ColorFiltered saved my day - Making a custom border shape in Flutter](https://cgutierr-zgz.github.io/posts/color-filtered-to-the-rescue/) (1 week ago)
 - [Relative click position on a widget](https://cgutierr-zgz.github.io/posts/relative-position-click/) (1 week ago)
 - [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (3 months ago)
 
