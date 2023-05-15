@@ -30,7 +30,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 - [Making a custom border shape in Flutter with ColorFiltered](https://cgutierr-zgz.github.io/posts/color-filtered-to-the-rescue/) (3 months ago)
 - [Relative click position on a widget](https://cgutierr-zgz.github.io/posts/relative-position-click/) (3 months ago)
-- [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (5 months ago)
+- [Retry, log and refresh auth tokens with Dio](https://cgutierr-zgz.github.io/posts/refreshing-auth-tokens-with-dio/) (6 months ago)
 
 
   
