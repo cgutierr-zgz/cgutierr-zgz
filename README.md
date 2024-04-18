@@ -12,7 +12,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 - 🚴‍♀️ **Cycling** and **swimming** 
 - 🐶 Proud owner of two dogs, **Laisa** and **Phoebe**
-- 🐢 My turtle squad: **Cristina**, **Casemira**, **Victor**, **Cloe** and **Paqui**
+- 🐢 Squad of 8 turtles
 - 🇪🇸 Born in **Zaragoza** and raised in **Madrid**, hola! 
 - 🎤 I love **singing**, take me to karaoke!
 
@@ -21,7 +21,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 [![email](https://img.shields.io/badge/-email-red?&logo=Gmail&logoColor=white)](mailto:carlosgutimo.3d@gmail.com)
 [![linkedin](https://img.shields.io/badge/-cgutierr-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cgutierr)
-[![twitter](https://img.shields.io/badge/-dud_ichi-blue?&logo=Twitter&logoColor=white)](https://twitter.com/dud_ichi)
+[![twitter](https://img.shields.io/badge/-dud_ichi-blue?&logo=Twitter&logoColor=white)](https://twitter.com/_cgutierr)
 [![website](https://img.shields.io/badge/-website-purple?&logo=Hugo&logoColor=white)](https://cgutierr-zgz.github.io/)
 
 
