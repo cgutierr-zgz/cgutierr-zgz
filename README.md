@@ -12,7 +12,7 @@ Have a look at my [website](https://cgutierr-zgz.github.io) if you want to know 
 
 - 🚴‍♀️ **Cycling** and **swimming** 
 - 🐶 Proud owner of two dogs, **Laisa** and **Phoebe**
-- 🐢 Squad of 9 turtles
+- 🐢 Squad of 8 turtles
 - 🇪🇸 Born in **Zaragoza** and raised in **Madrid**, hola! 
 - 🎤 I love **singing**, take me to karaoke!
 
